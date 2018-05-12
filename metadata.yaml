@@ -1,0 +1,31 @@
+_repo: BiribiDiscipline-militaire_16492
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darien, Georges
+    alias: Adrien, Georges Hippolyte
+    birthdate: 1862
+    deathdate: 1921
+    gutenberg_agent_id: '5984'
+    url: http://www.gutenberg.org/2009/agents/5984
+    wikipedia: http://fr.wikipedia.org/wiki/Georges_Darien
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16492'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Armée -- Military life -- Fiction'
+- !lcc 'PQ'
+title: 'Biribi
+
+  Discipline militaire'
+url: http://www.gutenberg.org/ebooks/16492
